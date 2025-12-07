@@ -1,0 +1,4 @@
+repository "fs_vr_env@das_rosti@cloud"
+  path "/"
+    br "/main"
+    co "/main"
